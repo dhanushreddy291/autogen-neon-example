@@ -1,2 +1,2 @@
-# https-github.com-dhanushreddy291-autogen-neon-example
+# AutoGen + Neon example
 Getting started with AutoGen + Neon
