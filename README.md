@@ -49,8 +49,7 @@ Before you begin, make sure you have the following:
 
     ```bash
     python3 -m venv venv
-    source venv/bin/activate   # For macOS/Linux
-    venv\Scripts\activate  # For Windows
+    source venv/bin/activate  # For Windows: venv\Scripts\activate
     ```
 
 3.  **Install required libraries:**
@@ -65,7 +64,6 @@ Before you begin, make sure you have the following:
 
       ```bash
       cp .env.example .env  # On Linux/macOS
-      copy .env.example .env  # On Windows
       ```
 
     - Open the `.env` file and fill in your API keys:
