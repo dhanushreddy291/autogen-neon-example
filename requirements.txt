@@ -1,0 +1,5 @@
+autogen-agentchat[openai]
+autogen-ext[openai]
+python-dotenv
+neon-api
+psycopg2-binary
